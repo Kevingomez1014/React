@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@react-native-community/viewpager": "^5.0.11",
+    "@react-navigation/native": "^6.1.14",
+    "@react-navigation/stack": "^6.3.25",
+    "expo": "^44.0.6",
+    "react-native-gesture-handler": "^2.15.0",
+    "react-native-reanimated": "^3.7.2",
+    "react-native-safe-area-context": "^4.9.0",
+    "react-native-screens": "^3.29.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/react": "~17.0.21",
+    "@types/react-native": "~0.64.12"
+  }
+}
